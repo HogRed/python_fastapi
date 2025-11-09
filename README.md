@@ -3,7 +3,7 @@
 This project is a simple FastAPI application that demonstrates basic **CRUD (Create, Read, Update, Delete)** operations for managing geometric shapes.
 
 > **Note:** This project was inspired by a [Real Python](https://realpython.com/courses/python-rest-apis-with-fastapi/) tutorial on FastAPI.  
-> I modified and expanded parts of the original example to explore CRUD operations and API design patterns.  
+> I updated and added commentary to parts of the original example to explain CRUD operations and API design patterns.  
 > This repository is for **educational purposes only**.
 
 ---
